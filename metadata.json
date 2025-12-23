@@ -1,0 +1,7 @@
+{
+  "name": "Jumbo Meat Suppliers",
+  "description": "Professional website for Jumbo Meat Suppliers in Bulawayo, offering high-quality fresh meats, wholesale supplies, and direct customer ordering via WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
